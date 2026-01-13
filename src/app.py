@@ -1,5 +1,3 @@
-import os
-import subprocess
 import streamlit as st
 import pandas as pd
 import geopandas as gpd
@@ -15,14 +13,6 @@ st.title("Homicidios en Guanajuato (2020–2025)")
 st.caption("Visualización exploratoria con tasas por 100 mil habitantes")
 
 # Cargar datos
-if not os.path.exists("data/processed/homicidios_gto_2020_2025_municipal_anual.csv"):
-    subprocess.run(
-    ["python3", "src/agregacion_municipal_anual.py"],
-    check=True)
-    subprocess.run(["python3", "src/filtrado_homicidios.py"], check=True)
-    subprocess.run(["python3", "src/transformacion_meses.py"], check=True)
-    subprocess.run(["python3", "src/agregacion_municipal_anual.py"], check=True)
-
 df = pd.read_csv(
     "data/processed/homicidios_gto_2020_2025_municipal_anual.csv"
 )

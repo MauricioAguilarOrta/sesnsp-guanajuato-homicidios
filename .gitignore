@@ -1,5 +1,4 @@
 # Datos
-data/
 outputs/
 
 # Geoespacial
@@ -14,3 +13,11 @@ __pycache__/
 
 # Streamlit
 .streamlit/
+
+# Ignorar datos crudos
+data/raw/
+
+# Permitir datos procesados
+!data/processed/
+!data/processed/*.csv
+

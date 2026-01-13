@@ -1,0 +1,16 @@
+# Datos
+data/
+outputs/
+
+# Geoespacial
+*.shp
+*.shx
+*.dbf
+*.prj
+
+# Python
+__pycache__/
+.env
+
+# Streamlit
+.streamlit/

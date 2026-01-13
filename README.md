@@ -22,17 +22,18 @@ El proyecto está enfocado en:
 ---
 
 ## Estructura del proyecto
-- src/
- - revision_data.py
- - filtrado_homicidios.py
- - agregacion_municipal_anual.py
- - mapa_homicidios.py
-- app.py # Aplicación en Streamlit
-- requirements.txt
-- README.md
-- .gitignore
-
----
+```
+.
+├── src/
+│   ├── revision_data.py
+│   ├── filtrado_homicidios.py
+│   ├── agregacion_municipal_anual.py
+│   └── mapa_homicidios.py
+├── app.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+```
 
 ## Funcionalidades principales
 

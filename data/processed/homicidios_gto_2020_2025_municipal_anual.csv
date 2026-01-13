@@ -1,0 +1,553 @@
+Municipio,Año,Subtipo de delito,Casos
+Abasolo,2020,Homicidio culposo,27.0
+Abasolo,2020,Homicidio doloso,19.0
+Abasolo,2021,Homicidio culposo,28.0
+Abasolo,2021,Homicidio doloso,28.0
+Abasolo,2022,Homicidio culposo,24.0
+Abasolo,2022,Homicidio doloso,34.0
+Abasolo,2023,Homicidio culposo,39.0
+Abasolo,2023,Homicidio doloso,25.0
+Abasolo,2024,Homicidio culposo,41.0
+Abasolo,2024,Homicidio doloso,23.0
+Abasolo,2025,Homicidio culposo,31.0
+Abasolo,2025,Homicidio doloso,11.0
+Acámbaro,2020,Homicidio culposo,37.0
+Acámbaro,2020,Homicidio doloso,105.0
+Acámbaro,2021,Homicidio culposo,21.0
+Acámbaro,2021,Homicidio doloso,80.0
+Acámbaro,2022,Homicidio culposo,17.0
+Acámbaro,2022,Homicidio doloso,53.0
+Acámbaro,2023,Homicidio culposo,49.0
+Acámbaro,2023,Homicidio doloso,35.0
+Acámbaro,2024,Homicidio culposo,38.0
+Acámbaro,2024,Homicidio doloso,50.0
+Acámbaro,2025,Homicidio culposo,54.0
+Acámbaro,2025,Homicidio doloso,37.0
+Apaseo el Alto,2020,Homicidio culposo,28.0
+Apaseo el Alto,2020,Homicidio doloso,120.0
+Apaseo el Alto,2021,Homicidio culposo,13.0
+Apaseo el Alto,2021,Homicidio doloso,56.0
+Apaseo el Alto,2022,Homicidio culposo,10.0
+Apaseo el Alto,2022,Homicidio doloso,30.0
+Apaseo el Alto,2023,Homicidio culposo,13.0
+Apaseo el Alto,2023,Homicidio doloso,19.0
+Apaseo el Alto,2024,Homicidio culposo,13.0
+Apaseo el Alto,2024,Homicidio doloso,27.0
+Apaseo el Alto,2025,Homicidio culposo,15.0
+Apaseo el Alto,2025,Homicidio doloso,39.0
+Apaseo el Grande,2020,Homicidio culposo,48.0
+Apaseo el Grande,2020,Homicidio doloso,106.0
+Apaseo el Grande,2021,Homicidio culposo,16.0
+Apaseo el Grande,2021,Homicidio doloso,150.0
+Apaseo el Grande,2022,Homicidio culposo,30.0
+Apaseo el Grande,2022,Homicidio doloso,66.0
+Apaseo el Grande,2023,Homicidio culposo,30.0
+Apaseo el Grande,2023,Homicidio doloso,52.0
+Apaseo el Grande,2024,Homicidio culposo,29.0
+Apaseo el Grande,2024,Homicidio doloso,61.0
+Apaseo el Grande,2025,Homicidio culposo,20.0
+Apaseo el Grande,2025,Homicidio doloso,62.0
+Atarjea,2020,Homicidio culposo,1.0
+Atarjea,2020,Homicidio doloso,0.0
+Atarjea,2021,Homicidio culposo,0.0
+Atarjea,2021,Homicidio doloso,0.0
+Atarjea,2022,Homicidio culposo,1.0
+Atarjea,2022,Homicidio doloso,0.0
+Atarjea,2023,Homicidio culposo,0.0
+Atarjea,2023,Homicidio doloso,1.0
+Atarjea,2024,Homicidio culposo,1.0
+Atarjea,2024,Homicidio doloso,0.0
+Atarjea,2025,Homicidio culposo,1.0
+Atarjea,2025,Homicidio doloso,0.0
+Celaya,2020,Homicidio culposo,103.0
+Celaya,2020,Homicidio doloso,493.0
+Celaya,2021,Homicidio culposo,37.0
+Celaya,2021,Homicidio doloso,407.0
+Celaya,2022,Homicidio culposo,48.0
+Celaya,2022,Homicidio doloso,450.0
+Celaya,2023,Homicidio culposo,62.0
+Celaya,2023,Homicidio doloso,370.0
+Celaya,2024,Homicidio culposo,79.0
+Celaya,2024,Homicidio doloso,443.0
+Celaya,2025,Homicidio culposo,108.0
+Celaya,2025,Homicidio doloso,231.0
+Comonfort,2020,Homicidio culposo,14.0
+Comonfort,2020,Homicidio doloso,49.0
+Comonfort,2021,Homicidio culposo,6.0
+Comonfort,2021,Homicidio doloso,41.0
+Comonfort,2022,Homicidio culposo,9.0
+Comonfort,2022,Homicidio doloso,20.0
+Comonfort,2023,Homicidio culposo,9.0
+Comonfort,2023,Homicidio doloso,25.0
+Comonfort,2024,Homicidio culposo,16.0
+Comonfort,2024,Homicidio doloso,27.0
+Comonfort,2025,Homicidio culposo,14.0
+Comonfort,2025,Homicidio doloso,16.0
+Coroneo,2020,Homicidio culposo,6.0
+Coroneo,2020,Homicidio doloso,2.0
+Coroneo,2021,Homicidio culposo,2.0
+Coroneo,2021,Homicidio doloso,0.0
+Coroneo,2022,Homicidio culposo,2.0
+Coroneo,2022,Homicidio doloso,1.0
+Coroneo,2023,Homicidio culposo,3.0
+Coroneo,2023,Homicidio doloso,2.0
+Coroneo,2024,Homicidio culposo,3.0
+Coroneo,2024,Homicidio doloso,2.0
+Coroneo,2025,Homicidio culposo,4.0
+Coroneo,2025,Homicidio doloso,0.0
+Cortazar,2020,Homicidio culposo,25.0
+Cortazar,2020,Homicidio doloso,97.0
+Cortazar,2021,Homicidio culposo,4.0
+Cortazar,2021,Homicidio doloso,40.0
+Cortazar,2022,Homicidio culposo,6.0
+Cortazar,2022,Homicidio doloso,40.0
+Cortazar,2023,Homicidio culposo,18.0
+Cortazar,2023,Homicidio doloso,38.0
+Cortazar,2024,Homicidio culposo,18.0
+Cortazar,2024,Homicidio doloso,25.0
+Cortazar,2025,Homicidio culposo,9.0
+Cortazar,2025,Homicidio doloso,19.0
+Cuerámaro,2020,Homicidio culposo,21.0
+Cuerámaro,2020,Homicidio doloso,7.0
+Cuerámaro,2021,Homicidio culposo,6.0
+Cuerámaro,2021,Homicidio doloso,3.0
+Cuerámaro,2022,Homicidio culposo,4.0
+Cuerámaro,2022,Homicidio doloso,1.0
+Cuerámaro,2023,Homicidio culposo,10.0
+Cuerámaro,2023,Homicidio doloso,3.0
+Cuerámaro,2024,Homicidio culposo,12.0
+Cuerámaro,2024,Homicidio doloso,3.0
+Cuerámaro,2025,Homicidio culposo,13.0
+Cuerámaro,2025,Homicidio doloso,2.0
+Doctor Mora,2020,Homicidio culposo,10.0
+Doctor Mora,2020,Homicidio doloso,7.0
+Doctor Mora,2021,Homicidio culposo,3.0
+Doctor Mora,2021,Homicidio doloso,3.0
+Doctor Mora,2022,Homicidio culposo,3.0
+Doctor Mora,2022,Homicidio doloso,1.0
+Doctor Mora,2023,Homicidio culposo,4.0
+Doctor Mora,2023,Homicidio doloso,4.0
+Doctor Mora,2024,Homicidio culposo,9.0
+Doctor Mora,2024,Homicidio doloso,1.0
+Doctor Mora,2025,Homicidio culposo,5.0
+Doctor Mora,2025,Homicidio doloso,0.0
+Dolores Hidalgo Cuna de la Independencia Nacional,2020,Homicidio culposo,46.0
+Dolores Hidalgo Cuna de la Independencia Nacional,2020,Homicidio doloso,44.0
+Dolores Hidalgo Cuna de la Independencia Nacional,2021,Homicidio culposo,31.0
+Dolores Hidalgo Cuna de la Independencia Nacional,2021,Homicidio doloso,25.0
+Dolores Hidalgo Cuna de la Independencia Nacional,2022,Homicidio culposo,37.0
+Dolores Hidalgo Cuna de la Independencia Nacional,2022,Homicidio doloso,27.0
+Dolores Hidalgo Cuna de la Independencia Nacional,2023,Homicidio culposo,45.0
+Dolores Hidalgo Cuna de la Independencia Nacional,2023,Homicidio doloso,21.0
+Dolores Hidalgo Cuna de la Independencia Nacional,2024,Homicidio culposo,48.0
+Dolores Hidalgo Cuna de la Independencia Nacional,2024,Homicidio doloso,29.0
+Dolores Hidalgo Cuna de la Independencia Nacional,2025,Homicidio culposo,49.0
+Dolores Hidalgo Cuna de la Independencia Nacional,2025,Homicidio doloso,29.0
+Guanajuato,2020,Homicidio culposo,20.0
+Guanajuato,2020,Homicidio doloso,46.0
+Guanajuato,2021,Homicidio culposo,7.0
+Guanajuato,2021,Homicidio doloso,27.0
+Guanajuato,2022,Homicidio culposo,4.0
+Guanajuato,2022,Homicidio doloso,23.0
+Guanajuato,2023,Homicidio culposo,12.0
+Guanajuato,2023,Homicidio doloso,30.0
+Guanajuato,2024,Homicidio culposo,15.0
+Guanajuato,2024,Homicidio doloso,37.0
+Guanajuato,2025,Homicidio culposo,10.0
+Guanajuato,2025,Homicidio doloso,25.0
+Huanímaro,2020,Homicidio culposo,5.0
+Huanímaro,2020,Homicidio doloso,9.0
+Huanímaro,2021,Homicidio culposo,10.0
+Huanímaro,2021,Homicidio doloso,9.0
+Huanímaro,2022,Homicidio culposo,2.0
+Huanímaro,2022,Homicidio doloso,6.0
+Huanímaro,2023,Homicidio culposo,7.0
+Huanímaro,2023,Homicidio doloso,5.0
+Huanímaro,2024,Homicidio culposo,10.0
+Huanímaro,2024,Homicidio doloso,9.0
+Huanímaro,2025,Homicidio culposo,7.0
+Huanímaro,2025,Homicidio doloso,3.0
+Irapuato,2020,Homicidio culposo,233.0
+Irapuato,2020,Homicidio doloso,298.0
+Irapuato,2021,Homicidio culposo,130.0
+Irapuato,2021,Homicidio doloso,219.0
+Irapuato,2022,Homicidio culposo,137.0
+Irapuato,2022,Homicidio doloso,263.0
+Irapuato,2023,Homicidio culposo,159.0
+Irapuato,2023,Homicidio doloso,215.0
+Irapuato,2024,Homicidio culposo,224.0
+Irapuato,2024,Homicidio doloso,261.0
+Irapuato,2025,Homicidio culposo,189.0
+Irapuato,2025,Homicidio doloso,206.0
+Jaral del Progreso,2020,Homicidio culposo,6.0
+Jaral del Progreso,2020,Homicidio doloso,30.0
+Jaral del Progreso,2021,Homicidio culposo,6.0
+Jaral del Progreso,2021,Homicidio doloso,20.0
+Jaral del Progreso,2022,Homicidio culposo,10.0
+Jaral del Progreso,2022,Homicidio doloso,31.0
+Jaral del Progreso,2023,Homicidio culposo,3.0
+Jaral del Progreso,2023,Homicidio doloso,33.0
+Jaral del Progreso,2024,Homicidio culposo,6.0
+Jaral del Progreso,2024,Homicidio doloso,40.0
+Jaral del Progreso,2025,Homicidio culposo,7.0
+Jaral del Progreso,2025,Homicidio doloso,25.0
+Jerécuaro,2020,Homicidio culposo,20.0
+Jerécuaro,2020,Homicidio doloso,45.0
+Jerécuaro,2021,Homicidio culposo,8.0
+Jerécuaro,2021,Homicidio doloso,8.0
+Jerécuaro,2022,Homicidio culposo,8.0
+Jerécuaro,2022,Homicidio doloso,4.0
+Jerécuaro,2023,Homicidio culposo,10.0
+Jerécuaro,2023,Homicidio doloso,0.0
+Jerécuaro,2024,Homicidio culposo,7.0
+Jerécuaro,2024,Homicidio doloso,7.0
+Jerécuaro,2025,Homicidio culposo,12.0
+Jerécuaro,2025,Homicidio doloso,9.0
+León,2020,Homicidio culposo,181.0
+León,2020,Homicidio doloso,633.0
+León,2021,Homicidio culposo,107.0
+León,2021,Homicidio doloso,709.0
+León,2022,Homicidio culposo,98.0
+León,2022,Homicidio doloso,616.0
+León,2023,Homicidio culposo,61.0
+León,2023,Homicidio doloso,777.0
+León,2024,Homicidio culposo,74.0
+León,2024,Homicidio doloso,596.0
+León,2025,Homicidio culposo,71.0
+León,2025,Homicidio doloso,393.0
+Manuel Doblado,2020,Homicidio culposo,10.0
+Manuel Doblado,2020,Homicidio doloso,2.0
+Manuel Doblado,2021,Homicidio culposo,3.0
+Manuel Doblado,2021,Homicidio doloso,2.0
+Manuel Doblado,2022,Homicidio culposo,8.0
+Manuel Doblado,2022,Homicidio doloso,1.0
+Manuel Doblado,2023,Homicidio culposo,8.0
+Manuel Doblado,2023,Homicidio doloso,2.0
+Manuel Doblado,2024,Homicidio culposo,8.0
+Manuel Doblado,2024,Homicidio doloso,1.0
+Manuel Doblado,2025,Homicidio culposo,11.0
+Manuel Doblado,2025,Homicidio doloso,2.0
+Moroleón,2020,Homicidio culposo,6.0
+Moroleón,2020,Homicidio doloso,44.0
+Moroleón,2021,Homicidio culposo,4.0
+Moroleón,2021,Homicidio doloso,31.0
+Moroleón,2022,Homicidio culposo,3.0
+Moroleón,2022,Homicidio doloso,8.0
+Moroleón,2023,Homicidio culposo,6.0
+Moroleón,2023,Homicidio doloso,4.0
+Moroleón,2024,Homicidio culposo,5.0
+Moroleón,2024,Homicidio doloso,9.0
+Moroleón,2025,Homicidio culposo,3.0
+Moroleón,2025,Homicidio doloso,1.0
+Ocampo,2020,Homicidio culposo,6.0
+Ocampo,2020,Homicidio doloso,4.0
+Ocampo,2021,Homicidio culposo,7.0
+Ocampo,2021,Homicidio doloso,0.0
+Ocampo,2022,Homicidio culposo,4.0
+Ocampo,2022,Homicidio doloso,2.0
+Ocampo,2023,Homicidio culposo,8.0
+Ocampo,2023,Homicidio doloso,2.0
+Ocampo,2024,Homicidio culposo,7.0
+Ocampo,2024,Homicidio doloso,3.0
+Ocampo,2025,Homicidio culposo,6.0
+Ocampo,2025,Homicidio doloso,5.0
+Pueblo Nuevo,2020,Homicidio culposo,2.0
+Pueblo Nuevo,2020,Homicidio doloso,12.0
+Pueblo Nuevo,2021,Homicidio culposo,6.0
+Pueblo Nuevo,2021,Homicidio doloso,8.0
+Pueblo Nuevo,2022,Homicidio culposo,2.0
+Pueblo Nuevo,2022,Homicidio doloso,20.0
+Pueblo Nuevo,2023,Homicidio culposo,4.0
+Pueblo Nuevo,2023,Homicidio doloso,21.0
+Pueblo Nuevo,2024,Homicidio culposo,4.0
+Pueblo Nuevo,2024,Homicidio doloso,5.0
+Pueblo Nuevo,2025,Homicidio culposo,5.0
+Pueblo Nuevo,2025,Homicidio doloso,6.0
+Purísima del Rincón,2020,Homicidio culposo,9.0
+Purísima del Rincón,2020,Homicidio doloso,23.0
+Purísima del Rincón,2021,Homicidio culposo,3.0
+Purísima del Rincón,2021,Homicidio doloso,43.0
+Purísima del Rincón,2022,Homicidio culposo,12.0
+Purísima del Rincón,2022,Homicidio doloso,50.0
+Purísima del Rincón,2023,Homicidio culposo,7.0
+Purísima del Rincón,2023,Homicidio doloso,54.0
+Purísima del Rincón,2024,Homicidio culposo,13.0
+Purísima del Rincón,2024,Homicidio doloso,23.0
+Purísima del Rincón,2025,Homicidio culposo,6.0
+Purísima del Rincón,2025,Homicidio doloso,23.0
+Pénjamo,2020,Homicidio culposo,72.0
+Pénjamo,2020,Homicidio doloso,80.0
+Pénjamo,2021,Homicidio culposo,50.0
+Pénjamo,2021,Homicidio doloso,56.0
+Pénjamo,2022,Homicidio culposo,46.0
+Pénjamo,2022,Homicidio doloso,52.0
+Pénjamo,2023,Homicidio culposo,50.0
+Pénjamo,2023,Homicidio doloso,73.0
+Pénjamo,2024,Homicidio culposo,71.0
+Pénjamo,2024,Homicidio doloso,65.0
+Pénjamo,2025,Homicidio culposo,53.0
+Pénjamo,2025,Homicidio doloso,68.0
+Romita,2020,Homicidio culposo,19.0
+Romita,2020,Homicidio doloso,14.0
+Romita,2021,Homicidio culposo,14.0
+Romita,2021,Homicidio doloso,12.0
+Romita,2022,Homicidio culposo,11.0
+Romita,2022,Homicidio doloso,5.0
+Romita,2023,Homicidio culposo,15.0
+Romita,2023,Homicidio doloso,1.0
+Romita,2024,Homicidio culposo,6.0
+Romita,2024,Homicidio doloso,5.0
+Romita,2025,Homicidio culposo,7.0
+Romita,2025,Homicidio doloso,3.0
+Salamanca,2020,Homicidio culposo,146.0
+Salamanca,2020,Homicidio doloso,315.0
+Salamanca,2021,Homicidio culposo,47.0
+Salamanca,2021,Homicidio doloso,153.0
+Salamanca,2022,Homicidio culposo,52.0
+Salamanca,2022,Homicidio doloso,173.0
+Salamanca,2023,Homicidio culposo,63.0
+Salamanca,2023,Homicidio doloso,190.0
+Salamanca,2024,Homicidio culposo,84.0
+Salamanca,2024,Homicidio doloso,148.0
+Salamanca,2025,Homicidio culposo,82.0
+Salamanca,2025,Homicidio doloso,183.0
+Salvatierra,2020,Homicidio culposo,29.0
+Salvatierra,2020,Homicidio doloso,109.0
+Salvatierra,2021,Homicidio culposo,18.0
+Salvatierra,2021,Homicidio doloso,68.0
+Salvatierra,2022,Homicidio culposo,14.0
+Salvatierra,2022,Homicidio doloso,129.0
+Salvatierra,2023,Homicidio culposo,20.0
+Salvatierra,2023,Homicidio doloso,111.0
+Salvatierra,2024,Homicidio culposo,9.0
+Salvatierra,2024,Homicidio doloso,151.0
+Salvatierra,2025,Homicidio culposo,24.0
+Salvatierra,2025,Homicidio doloso,64.0
+San Diego de la Unión,2020,Homicidio culposo,14.0
+San Diego de la Unión,2020,Homicidio doloso,8.0
+San Diego de la Unión,2021,Homicidio culposo,3.0
+San Diego de la Unión,2021,Homicidio doloso,3.0
+San Diego de la Unión,2022,Homicidio culposo,15.0
+San Diego de la Unión,2022,Homicidio doloso,4.0
+San Diego de la Unión,2023,Homicidio culposo,13.0
+San Diego de la Unión,2023,Homicidio doloso,1.0
+San Diego de la Unión,2024,Homicidio culposo,17.0
+San Diego de la Unión,2024,Homicidio doloso,2.0
+San Diego de la Unión,2025,Homicidio culposo,7.0
+San Diego de la Unión,2025,Homicidio doloso,3.0
+San Felipe,2020,Homicidio culposo,25.0
+San Felipe,2020,Homicidio doloso,18.0
+San Felipe,2021,Homicidio culposo,27.0
+San Felipe,2021,Homicidio doloso,8.0
+San Felipe,2022,Homicidio culposo,24.0
+San Felipe,2022,Homicidio doloso,6.0
+San Felipe,2023,Homicidio culposo,31.0
+San Felipe,2023,Homicidio doloso,13.0
+San Felipe,2024,Homicidio culposo,37.0
+San Felipe,2024,Homicidio doloso,13.0
+San Felipe,2025,Homicidio culposo,31.0
+San Felipe,2025,Homicidio doloso,23.0
+San Francisco del Rincón,2020,Homicidio culposo,23.0
+San Francisco del Rincón,2020,Homicidio doloso,89.0
+San Francisco del Rincón,2021,Homicidio culposo,11.0
+San Francisco del Rincón,2021,Homicidio doloso,128.0
+San Francisco del Rincón,2022,Homicidio culposo,21.0
+San Francisco del Rincón,2022,Homicidio doloso,118.0
+San Francisco del Rincón,2023,Homicidio culposo,16.0
+San Francisco del Rincón,2023,Homicidio doloso,72.0
+San Francisco del Rincón,2024,Homicidio culposo,21.0
+San Francisco del Rincón,2024,Homicidio doloso,74.0
+San Francisco del Rincón,2025,Homicidio culposo,28.0
+San Francisco del Rincón,2025,Homicidio doloso,45.0
+San José Iturbide,2020,Homicidio culposo,44.0
+San José Iturbide,2020,Homicidio doloso,42.0
+San José Iturbide,2021,Homicidio culposo,29.0
+San José Iturbide,2021,Homicidio doloso,31.0
+San José Iturbide,2022,Homicidio culposo,27.0
+San José Iturbide,2022,Homicidio doloso,20.0
+San José Iturbide,2023,Homicidio culposo,31.0
+San José Iturbide,2023,Homicidio doloso,22.0
+San José Iturbide,2024,Homicidio culposo,29.0
+San José Iturbide,2024,Homicidio doloso,21.0
+San José Iturbide,2025,Homicidio culposo,38.0
+San José Iturbide,2025,Homicidio doloso,14.0
+San Luis de la Paz,2020,Homicidio culposo,37.0
+San Luis de la Paz,2020,Homicidio doloso,47.0
+San Luis de la Paz,2021,Homicidio culposo,30.0
+San Luis de la Paz,2021,Homicidio doloso,50.0
+San Luis de la Paz,2022,Homicidio culposo,24.0
+San Luis de la Paz,2022,Homicidio doloso,38.0
+San Luis de la Paz,2023,Homicidio culposo,38.0
+San Luis de la Paz,2023,Homicidio doloso,33.0
+San Luis de la Paz,2024,Homicidio culposo,27.0
+San Luis de la Paz,2024,Homicidio doloso,38.0
+San Luis de la Paz,2025,Homicidio culposo,26.0
+San Luis de la Paz,2025,Homicidio doloso,21.0
+San Miguel de Allende,2020,Homicidio culposo,36.0
+San Miguel de Allende,2020,Homicidio doloso,41.0
+San Miguel de Allende,2021,Homicidio culposo,27.0
+San Miguel de Allende,2021,Homicidio doloso,31.0
+San Miguel de Allende,2022,Homicidio culposo,21.0
+San Miguel de Allende,2022,Homicidio doloso,48.0
+San Miguel de Allende,2023,Homicidio culposo,31.0
+San Miguel de Allende,2023,Homicidio doloso,51.0
+San Miguel de Allende,2024,Homicidio culposo,49.0
+San Miguel de Allende,2024,Homicidio doloso,52.0
+San Miguel de Allende,2025,Homicidio culposo,22.0
+San Miguel de Allende,2025,Homicidio doloso,65.0
+Santa Catarina,2020,Homicidio culposo,0.0
+Santa Catarina,2020,Homicidio doloso,0.0
+Santa Catarina,2021,Homicidio culposo,1.0
+Santa Catarina,2021,Homicidio doloso,0.0
+Santa Catarina,2022,Homicidio culposo,1.0
+Santa Catarina,2022,Homicidio doloso,0.0
+Santa Catarina,2023,Homicidio culposo,1.0
+Santa Catarina,2023,Homicidio doloso,0.0
+Santa Catarina,2024,Homicidio culposo,1.0
+Santa Catarina,2024,Homicidio doloso,0.0
+Santa Catarina,2025,Homicidio culposo,1.0
+Santa Catarina,2025,Homicidio doloso,0.0
+Santa Cruz de Juventino Rosas,2020,Homicidio culposo,29.0
+Santa Cruz de Juventino Rosas,2020,Homicidio doloso,37.0
+Santa Cruz de Juventino Rosas,2021,Homicidio culposo,15.0
+Santa Cruz de Juventino Rosas,2021,Homicidio doloso,33.0
+Santa Cruz de Juventino Rosas,2022,Homicidio culposo,20.0
+Santa Cruz de Juventino Rosas,2022,Homicidio doloso,34.0
+Santa Cruz de Juventino Rosas,2023,Homicidio culposo,12.0
+Santa Cruz de Juventino Rosas,2023,Homicidio doloso,26.0
+Santa Cruz de Juventino Rosas,2024,Homicidio culposo,17.0
+Santa Cruz de Juventino Rosas,2024,Homicidio doloso,29.0
+Santa Cruz de Juventino Rosas,2025,Homicidio culposo,26.0
+Santa Cruz de Juventino Rosas,2025,Homicidio doloso,33.0
+Santiago Maravatío,2020,Homicidio culposo,2.0
+Santiago Maravatío,2020,Homicidio doloso,14.0
+Santiago Maravatío,2021,Homicidio culposo,0.0
+Santiago Maravatío,2021,Homicidio doloso,10.0
+Santiago Maravatío,2022,Homicidio culposo,0.0
+Santiago Maravatío,2022,Homicidio doloso,9.0
+Santiago Maravatío,2023,Homicidio culposo,3.0
+Santiago Maravatío,2023,Homicidio doloso,12.0
+Santiago Maravatío,2024,Homicidio culposo,2.0
+Santiago Maravatío,2024,Homicidio doloso,20.0
+Santiago Maravatío,2025,Homicidio culposo,1.0
+Santiago Maravatío,2025,Homicidio doloso,2.0
+Silao de la Victoria,2020,Homicidio culposo,94.0
+Silao de la Victoria,2020,Homicidio doloso,63.0
+Silao de la Victoria,2021,Homicidio culposo,67.0
+Silao de la Victoria,2021,Homicidio doloso,49.0
+Silao de la Victoria,2022,Homicidio culposo,57.0
+Silao de la Victoria,2022,Homicidio doloso,37.0
+Silao de la Victoria,2023,Homicidio culposo,81.0
+Silao de la Victoria,2023,Homicidio doloso,38.0
+Silao de la Victoria,2024,Homicidio culposo,71.0
+Silao de la Victoria,2024,Homicidio doloso,39.0
+Silao de la Victoria,2025,Homicidio culposo,54.0
+Silao de la Victoria,2025,Homicidio doloso,36.0
+Tarandacuao,2020,Homicidio culposo,5.0
+Tarandacuao,2020,Homicidio doloso,4.0
+Tarandacuao,2021,Homicidio culposo,4.0
+Tarandacuao,2021,Homicidio doloso,2.0
+Tarandacuao,2022,Homicidio culposo,4.0
+Tarandacuao,2022,Homicidio doloso,2.0
+Tarandacuao,2023,Homicidio culposo,3.0
+Tarandacuao,2023,Homicidio doloso,7.0
+Tarandacuao,2024,Homicidio culposo,4.0
+Tarandacuao,2024,Homicidio doloso,5.0
+Tarandacuao,2025,Homicidio culposo,3.0
+Tarandacuao,2025,Homicidio doloso,0.0
+Tarimoro,2020,Homicidio culposo,14.0
+Tarimoro,2020,Homicidio doloso,45.0
+Tarimoro,2021,Homicidio culposo,5.0
+Tarimoro,2021,Homicidio doloso,31.0
+Tarimoro,2022,Homicidio culposo,4.0
+Tarimoro,2022,Homicidio doloso,35.0
+Tarimoro,2023,Homicidio culposo,9.0
+Tarimoro,2023,Homicidio doloso,35.0
+Tarimoro,2024,Homicidio culposo,5.0
+Tarimoro,2024,Homicidio doloso,50.0
+Tarimoro,2025,Homicidio culposo,7.0
+Tarimoro,2025,Homicidio doloso,30.0
+Tierra Blanca,2020,Homicidio culposo,6.0
+Tierra Blanca,2020,Homicidio doloso,3.0
+Tierra Blanca,2021,Homicidio culposo,1.0
+Tierra Blanca,2021,Homicidio doloso,1.0
+Tierra Blanca,2022,Homicidio culposo,3.0
+Tierra Blanca,2022,Homicidio doloso,1.0
+Tierra Blanca,2023,Homicidio culposo,1.0
+Tierra Blanca,2023,Homicidio doloso,1.0
+Tierra Blanca,2024,Homicidio culposo,4.0
+Tierra Blanca,2024,Homicidio doloso,2.0
+Tierra Blanca,2025,Homicidio culposo,4.0
+Tierra Blanca,2025,Homicidio doloso,0.0
+Uriangato,2020,Homicidio culposo,13.0
+Uriangato,2020,Homicidio doloso,50.0
+Uriangato,2021,Homicidio culposo,10.0
+Uriangato,2021,Homicidio doloso,35.0
+Uriangato,2022,Homicidio culposo,6.0
+Uriangato,2022,Homicidio doloso,17.0
+Uriangato,2023,Homicidio culposo,10.0
+Uriangato,2023,Homicidio doloso,8.0
+Uriangato,2024,Homicidio culposo,11.0
+Uriangato,2024,Homicidio doloso,7.0
+Uriangato,2025,Homicidio culposo,11.0
+Uriangato,2025,Homicidio doloso,5.0
+Valle de Santiago,2020,Homicidio culposo,63.0
+Valle de Santiago,2020,Homicidio doloso,72.0
+Valle de Santiago,2021,Homicidio culposo,15.0
+Valle de Santiago,2021,Homicidio doloso,103.0
+Valle de Santiago,2022,Homicidio culposo,21.0
+Valle de Santiago,2022,Homicidio doloso,68.0
+Valle de Santiago,2023,Homicidio culposo,34.0
+Valle de Santiago,2023,Homicidio doloso,105.0
+Valle de Santiago,2024,Homicidio culposo,33.0
+Valle de Santiago,2024,Homicidio doloso,79.0
+Valle de Santiago,2025,Homicidio culposo,27.0
+Valle de Santiago,2025,Homicidio doloso,118.0
+Victoria,2020,Homicidio culposo,4.0
+Victoria,2020,Homicidio doloso,1.0
+Victoria,2021,Homicidio culposo,2.0
+Victoria,2021,Homicidio doloso,0.0
+Victoria,2022,Homicidio culposo,2.0
+Victoria,2022,Homicidio doloso,1.0
+Victoria,2023,Homicidio culposo,2.0
+Victoria,2023,Homicidio doloso,5.0
+Victoria,2024,Homicidio culposo,4.0
+Victoria,2024,Homicidio doloso,0.0
+Victoria,2025,Homicidio culposo,1.0
+Victoria,2025,Homicidio doloso,5.0
+Villagrán,2020,Homicidio culposo,25.0
+Villagrán,2020,Homicidio doloso,43.0
+Villagrán,2021,Homicidio culposo,7.0
+Villagrán,2021,Homicidio doloso,36.0
+Villagrán,2022,Homicidio culposo,13.0
+Villagrán,2022,Homicidio doloso,54.0
+Villagrán,2023,Homicidio culposo,21.0
+Villagrán,2023,Homicidio doloso,15.0
+Villagrán,2024,Homicidio culposo,27.0
+Villagrán,2024,Homicidio doloso,25.0
+Villagrán,2025,Homicidio culposo,14.0
+Villagrán,2025,Homicidio doloso,31.0
+Xichú,2020,Homicidio culposo,1.0
+Xichú,2020,Homicidio doloso,2.0
+Xichú,2021,Homicidio culposo,0.0
+Xichú,2021,Homicidio doloso,0.0
+Xichú,2022,Homicidio culposo,0.0
+Xichú,2022,Homicidio doloso,2.0
+Xichú,2023,Homicidio culposo,0.0
+Xichú,2023,Homicidio doloso,3.0
+Xichú,2024,Homicidio culposo,3.0
+Xichú,2024,Homicidio doloso,1.0
+Xichú,2025,Homicidio culposo,2.0
+Xichú,2025,Homicidio doloso,0.0
+Yuriria,2020,Homicidio culposo,16.0
+Yuriria,2020,Homicidio doloso,67.0
+Yuriria,2021,Homicidio culposo,9.0
+Yuriria,2021,Homicidio doloso,74.0
+Yuriria,2022,Homicidio culposo,14.0
+Yuriria,2022,Homicidio doloso,34.0
+Yuriria,2023,Homicidio culposo,7.0
+Yuriria,2023,Homicidio doloso,21.0
+Yuriria,2024,Homicidio culposo,7.0
+Yuriria,2024,Homicidio doloso,45.0
+Yuriria,2025,Homicidio culposo,8.0
+Yuriria,2025,Homicidio doloso,23.0

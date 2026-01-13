@@ -1,3 +1,5 @@
+import os
+import subprocess
 import streamlit as st
 import pandas as pd
 import geopandas as gpd
@@ -12,9 +14,12 @@ st.set_page_config(
 st.title("Homicidios en Guanajuato (2020–2025)")
 st.caption("Visualización exploratoria con tasas por 100 mil habitantes")
 
-# --------------------------------------------------
 # Cargar datos
-# --------------------------------------------------
+if not os.path.exists("data/processed/homicidios_gto_2020_2025_municipal_anual.csv"):
+    subprocess.run(
+        ["python", "src/agregacion_municipal_anual.py"],
+        check=True
+    )
 
 df = pd.read_csv(
     "data/processed/homicidios_gto_2020_2025_municipal_anual.csv"
@@ -46,10 +51,7 @@ df_pob["Municipio_norm"] = (
     .str.strip()
 )
 
-# --------------------------------------------------
 # Uniones
-# --------------------------------------------------
-
 gdf_homicidios = (
     gdf
     .merge(df, on="Municipio_norm", how="left")
@@ -64,10 +66,7 @@ gdf_homicidios["Tasa_x_100mil"] = (
     gdf_homicidios["Casos"] / gdf_homicidios["Poblacion"]
 ) * 100000
 
-# --------------------------------------------------
 # Selectores (interactividad mínima)
-# --------------------------------------------------
-
 anio = st.selectbox(
     "Selecciona el año",
     sorted(gdf_homicidios["Año"].dropna().unique())
@@ -78,19 +77,13 @@ subtipo = st.selectbox(
     ["Homicidio doloso", "Homicidio culposo"]
 )
 
-# --------------------------------------------------
 # Filtrar datos
-# --------------------------------------------------
-
 gdf_mapa = gdf_homicidios[
     (gdf_homicidios["Año"] == anio) &
     (gdf_homicidios["Subtipo de delito"] == subtipo)
 ]
 
-# --------------------------------------------------
 # Crear mapa
-# --------------------------------------------------
-
 m = folium.Map(
     location=[21.0, -101.0],
     zoom_start=8,

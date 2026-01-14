@@ -74,5 +74,8 @@ streamlit run app.py
 - Procesos transparentes y reproducibles
 - Énfasis en análisis territorial y contextualización de resultados
 
+## Publicación en Streamlit App
+https://sesnsp-guanajuato-homicidios.streamlit.app/
+
 ## Autor
 Mauricio Aguilar

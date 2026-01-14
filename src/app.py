@@ -24,7 +24,7 @@ df["Municipio_norm"] = (
 )
 
 gdf = gpd.read_file(
-    "data/geo/municipios_gto/municipios_gto.shp"
+    "data/geo/municipios_gto.geojson"
 )
 
 gdf["Municipio_norm"] = (

@@ -20,4 +20,6 @@ data/raw/
 # Permitir datos procesados
 !data/processed/
 !data/processed/*.csv
+data/geo/*
+!data/geo/*.geojson
 

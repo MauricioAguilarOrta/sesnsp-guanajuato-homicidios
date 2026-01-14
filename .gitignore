@@ -23,3 +23,9 @@ data/raw/
 data/geo/*
 !data/geo/*.geojson
 
+# Ignorar todo data excepto processed y poblacion
+data/*
+!data/processed/
+!data/processed/**
+!data/poblacion/
+!data/poblacion/**
